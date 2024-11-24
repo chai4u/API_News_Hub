@@ -1,1 +1,1 @@
-*** API_NEWS_HUB ***
+### API_NEWS_HUB ###
